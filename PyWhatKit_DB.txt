@@ -1,0 +1,340 @@
+Date: 17/7/2023
+Time: 8:26
+Phone Number: +393425524649
+Message: ciao
+--------------------
+Date: 17/7/2023
+Time: 8:36
+Phone Number: +393425524649
+Message: ciao
+--------------------
+Date: 17/7/2023
+Time: 8:44
+Phone Number: +393425524649
+Message: ciao
+--------------------
+Date: 17/7/2023
+Time: 8:48
+Phone Number: +393425524649
+Message: ciao
+--------------------
+Date: 17/7/2023
+Time: 8:52
+Group ID: Manu
+Message: ciao
+--------------------
+Date: 17/7/2023
+Time: 8:59
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: ciao
+--------------------
+Date: 17/7/2023
+Time: 9:11
+Phone Number: +393425524649
+Message: ciao
+--------------------
+Date: 17/7/2023
+Time: 10:1
+Phone Number: +393425524649.0
+Message: ciao Emanuele Bertuzzi
+--------------------
+Date: 17/7/2023
+Time: 10:3
+Phone Number: +393425524649
+Message: ciao Emanuele Bertuzzi
+--------------------
+Date: 17/7/2023
+Time: 10:6
+Phone Number: +393425524649
+Message: Tanti auguri Emanuele Bertuzzi
+--------------------
+Date: 17/7/2023
+Time: 10:6
+Phone Number: +393425524649
+Message: Tanti auguri Mario Rossi
+--------------------
+Date: 17/7/2023
+Time: 10:7
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 10:7
+Phone Number: +393425524649
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 10:27
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 10:28
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 10:29
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 10:44
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 10:46
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 10:47
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 10:48
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 10:49
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:4
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:6
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:10
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:11
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:13
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 11:13
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:48
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 11:48
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:55
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 11:56
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 11:56
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 11:57
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 12:2
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 12:2
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 14:21
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 14:21
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 14:27
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 14:28
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 14:31
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 14:32
+Phone Number: +393425524649
+Message: Tanti auguri Manu
+--------------------
+Date: 17/7/2023
+Time: 14:33
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario
+--------------------
+Date: 17/7/2023
+Time: 14:38
+Phone Number: +393425524649
+Message: Tanti auguri Luca
+--------------------
+Date: 17/7/2023
+Time: 14:39
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca
+--------------------
+Date: 17/7/2023
+Time: 14:43
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca water:wave
+--------------------
+Date: 17/7/2023
+Time: 14:48
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca :boxing
+--------------------
+Date: 17/7/2023
+Time: 14:51
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca :boxing	
+--------------------
+Date: 17/7/2023
+Time: 14:55
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca :bottle:cake	
+--------------------
+Date: 17/7/2023
+Time: 14:56
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca :bottle :cake	
+--------------------
+Date: 17/7/2023
+Time: 14:58
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca :cake	
+--------------------
+Date: 17/7/2023
+Time: 15:0
+Phone Number: +393425524649
+Message: Tanti auguri Luca :cake	:bottle	Luca
+--------------------
+Date: 17/7/2023
+Time: 15:0
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario :cake	:bottle	
+--------------------
+Date: 17/7/2023
+Time: 15:9
+Phone Number: +393425524649
+Message: Tanti auguri Luca :happy	
+--------------------
+Date: 17/7/2023
+Time: 15:10
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca :happy	
+--------------------
+Date: 17/7/2023
+Time: 15:11
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario :happy	
+--------------------
+Date: 17/7/2023
+Time: 15:19
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Luca :cake	
+--------------------
+Date: 17/7/2023
+Time: 15:20
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Mario :cake	
+--------------------
+Date: 17/7/2023
+Time: 15:30
+Phone Number: +393425524649
+Message: Tanti auguri Luca 🎂	
+--------------------
+Date: 17/7/2023
+Time: 15:32
+Phone Number: +393425524649
+Message: Tanti auguri Luca 🎂🥳	
+--------------------
+Date: 17/7/2023
+Time: 15:33
+Phone Number: +393425524649
+Message: Tanti auguri Luca 🎂🥳	
+--------------------
+Date: 17/7/2023
+Time: 15:34
+Phone Number: +393425524649
+Message: Tanti auguri Luca 🎂🥳	
+--------------------
+Date: 17/7/2023
+Time: 15:34
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Lucax 🎂🥳	
+--------------------
+Date: 17/7/2023
+Time: 15:36
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Lucax 🎂🥳	
+--------------------
+Date: 17/7/2023
+Time: 15:38
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Lucax:cake	
+--------------------
+Date: 17/7/2023
+Time: 15:40
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri Lucax :cake	
+--------------------
+Date: 17/7/2023
+Time: 15:43
+Group ID: KltNbDur8uz9cxDWU9f339
+Message: Tanti auguri 🎂Lucax :cake	
+--------------------
+Date: 18/7/2023
+Time: 11:1
+Phone Number: +393427554419
+Message: Tanti auguri Gian 🎂🥳	
+--------------------
+Date: 20/7/2023
+Time: 8:41
+Phone Number: +393425524649
+Message: Tanti auguri aaa 🎂🥳	
+--------------------
